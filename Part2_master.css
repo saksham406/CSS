@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+    background: url(https://wallpapercave.com/wp/wp2555730.jpg);
+    background-repeat:repeat;
+    background-size: 1280px;
+}
+div{
+    background: red;
+    border-color: blue;
+    border-width: 5px;
+    border-style:groove;
+
+}
+p{
+    color: yellow;
+}
+span{
+    background: yellowgreen;
+    color: black;
+
+}
