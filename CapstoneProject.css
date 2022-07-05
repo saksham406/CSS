@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(7, 29, 57);
+    border: 40px solid aqua;
+    padding:30px;
+    border-top: 0px;
+    margin: 3px;
+    padding-top: 1%;
+    text-align : center;
+}
+
+#one{
+    font-style: normal;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+#two{
+    font-style: normal;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+#three{
+    font-style: normal;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+p{
+        font-style: normal;
+        font-family: sans-serif;
+        color: white;
+        text-align: center;
+        padding-left: 20%;
+        padding-top: 3%;
+        padding-right: 20%;
+}
+form{
+    text-align: center;
+    color: antiquewhite;
+    margin-bottom: 8px;
+}
+#submit{
+    border: 1px solid coral;
+    font-family: sans-serif;
+    background-color: yellow;
+    text-align: center;
+    font-size: 1em;
+    margin: 50px;
+    margin-top:10px;
+    border-radius: 20px;
+}

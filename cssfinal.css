@@ -1,0 +1,43 @@
+#Heading{
+    font-size:large ;
+    font-family:'Anton',cursive;
+    text-align: center;
+    font-style:normal;
+    margin: 10px,20px,20px,10px;
+}
+
+table{
+    margin-top: 500px;
+    margin:auto;
+}
+
+#first{
+    background-color: #ff99c8;
+    height: 200px;
+    width: 100px;
+    border:6px solid white;
+}
+#second{
+    background-color: #f4acb7;
+    height: 200px;
+    width: 100px;
+    border:6px solid white;
+}
+#third{
+    background-color: rgb(236, 240, 125);
+    height: 200px;
+    width: 100px;
+    border:6px solid white;
+}
+#fourth{
+    background-color: rgb(182, 146, 240);
+    height: 200px;
+    width: 100px;
+    border:6px solid white;
+}
+#fifth{
+    background-color: rgb(177, 240, 184);
+    height: 200px;
+    width: 100px;
+    border:6px solid white;
+}
